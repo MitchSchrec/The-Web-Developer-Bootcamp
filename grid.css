@@ -3,3 +3,9 @@
     border: 1px solid purple;
     text-align: center;
 }
+
+.orange {
+    background: orange;
+    border: 1px dashed blue;
+    text-align: center;
+}
