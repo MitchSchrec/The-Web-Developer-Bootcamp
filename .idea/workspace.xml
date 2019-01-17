@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0194f892-de58-4e85-80cf-7a233754eaa2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jsStalkerExercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsStalkerExercise.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scriptDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/scriptDemo.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
